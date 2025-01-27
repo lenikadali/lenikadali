@@ -1,6 +1,15 @@
 ## Hi there 👋
 
+I'm Leni, yet another software engineer/developer 🤓
+
+* I am comfortable working in Django and Rails backends 🖥️
+* I am confident in troubleshooting anything to do with Docker and development setups 💪
+* I am currently learning TypeScript, Go and React 🔍
+* I’m currently working on a variety of FOSS projects. My GitHub activity should show which ones those are 😄
+* I am very curious about Svelte 🕵️‍♀️
+
 <!--
+Note: I'm keeping the comments in case I have other sections I'd want to add ;)
 **lenikadali/lenikadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
